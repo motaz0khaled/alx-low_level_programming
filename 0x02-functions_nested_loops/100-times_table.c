@@ -1,7 +1,7 @@
 
 /*
  * File: 100-times_table.c
- * Auth: Brennan D Baraban
+ * Auth: motaz khaled
  */
 #include "main.h"
 
