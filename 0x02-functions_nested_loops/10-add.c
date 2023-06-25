@@ -1,6 +1,6 @@
 /*
  * File: 10-add.c
- * Auth: Brennan D Baraban
+ * Auth:motaz khaled
  */
 #include "main.h"
 
