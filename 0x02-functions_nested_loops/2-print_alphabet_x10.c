@@ -1,16 +1,22 @@
 /*
- * File: 2-print_alphabet_x10.c
- * Auth: motaz khaled
+ * File: 3-islower.c
+ * Auth: Brennan D Baraban
  */
-
-
 
 #include "main.h"
 
-
-	/**
- * print_alphabet_x10 - Prints 10 times the alphabet, in lowercase.
+/**
+ * _islower - Checks if a character is lowercase.
+ * @c: The character to be checked.
+ *
+ * Return: 1 if character is lowercase, 0 otherwise.
  */
+
+
+
+
+
+	
 	void print_alphabet_x10(void)
 	{
 		char ch;
